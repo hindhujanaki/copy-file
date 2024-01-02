@@ -31,6 +31,9 @@ with open("text2.txt",'a')as fp1:
 print("Copied Successfully")
 ```
 ### OUTPUT:
-![Alt text](<Screenshot 2024-01-02 202047.png>)
+![Screenshot 2024-01-02 211147](https://github.com/hindhujanaki/copy-file/assets/148514666/21ff924d-d7d2-4628-8f15-203d6eae76e1)
+![Screenshot 2024-01-02 211430](https://github.com/hindhujanaki/copy-file/assets/148514666/72f02348-39c5-4935-b7da-66bcd8d90379)
+![Screenshot 2024-01-02 211444](https://github.com/hindhujanaki/copy-file/assets/148514666/3e70cbb5-4fec-444b-8212-cc8c0ca083d5)
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
